@@ -1,6 +1,6 @@
 # Beat Rising Prices Budget Planner — public demo (Grad-IQ)
 
-Live demo: https://saletra40-a11y.github.io/beat-rising-prices-planner/
+Live demo: https://gradiq.github.io/beat-rising-prices-planner/
 
 This is the **demo-only** edition. It runs on sample data, saves nothing, and has no export/import. The full planner (saves in your browser, JSON backup/restore, CSV export, print) is sold separately as a download.
 
